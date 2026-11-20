@@ -1,16 +1,19 @@
-## Hi there 👋
+# 嗨，我是 Amy 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true" />
 </p>
 
-##  關於我
-- 🔭 現就讀：國立中央大學
+## 🙋‍♀️ 關於我
+- 🔭 目前在做：個人記帳 App
 - 🌱 正在學：TypeScript、Docker
 - 💬 可以找我聊：前端開發、UI 設計
 - 📍 住在台北
 
 ## 🛠️ 技術棧
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## 📌 代表作品
 - [記帳小幫手](https://github.com/你的帳號/repo)：React + Firebase 的記帳網站
