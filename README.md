@@ -1,7 +1,7 @@
 # 嗨，我是 myosotis 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0w0d&show_icons=true" />
 </p>
 
 ## 🙋‍♀️ 關於我
