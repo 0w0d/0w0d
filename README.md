@@ -2,8 +2,8 @@
 
 ##  About me
 
- I'm a CSIE major student from Taiwan \n
- just began my github journey recently \n
+ I'm a CSIE major student from Taiwan\
+ just began my github journey recently\
  hope I can learn more and become a good engineer
 
 ## 📌 My projects
