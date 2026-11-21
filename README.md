@@ -1,22 +1,20 @@
-# 嗨，我是 myosotis 👋
+# Hi, I'm myosotis 👋
 
-##  關於我
-- 🔭 目前就讀：國立中央大學
-- 💬 正在學習：各種零零碎碎資工相關的技能
+##  About me
 
- 我是來自桃園 就讀資工系的大學生
- 在Github上算是新手
- 還請希望能多多關照、互相砥礪
+ I'm a CSIE major student from Taiwan
+ just began my github journey recently
+ hope I can learn more and become a good engineer
 
-## 📌 作品
-自動抓家教職缺機器人：https://github.com/0w0d/tutor-moniter
+## 📌 My projects
+Home tutor：https://github.com/0w0d/tutor-moniter
 
-## 📫 聯絡我
+## 📫 Contact me
 gmail : jasonlin0601@gmail.com
 
 <details>
-<summary>🎮 工作以外的興趣</summary>
+<summary>🎮 My hobbies </summary>
 
-喜歡音樂、吉他、漫畫。
+I like music, guitar,and reading comics
 
 </details>
